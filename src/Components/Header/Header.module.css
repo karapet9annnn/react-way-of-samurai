@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: red;
+    grid-area: header;
+}
+.header img{
+    margin: 5px;
+    width: 30px;
+}
+.a{
+    color:white;
+    margin-left: 30px;
+    transition: .5s;
+}
+.a:hover{
+    color:black;
+}

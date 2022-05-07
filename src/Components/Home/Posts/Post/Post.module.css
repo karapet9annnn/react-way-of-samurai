@@ -1,0 +1,23 @@
+.post_item{
+    margin-bottom: 20px;
+}
+.avatar > img{
+    border-radius: 50%;
+    width: 60px;
+}
+.likecount p{
+    font-size: 10px;
+}
+.message{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+
+.posts,.user_posts{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.posts > h2,textarea{
+    margin-bottom: 5px;
+}

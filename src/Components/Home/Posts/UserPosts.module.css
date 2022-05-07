@@ -1,0 +1,8 @@
+
+.posts,.user_posts{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.posts > h2,textarea{
+    margin-bottom: 5px;
+}

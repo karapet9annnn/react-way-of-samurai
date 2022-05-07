@@ -1,0 +1,42 @@
+.login{
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.wrapper{
+    background-color: lightblue;
+}
+.container{
+    margin-left: 40px;
+}
+.error{
+    color: red;
+    font-size: 18px;
+}
+.rememberMe{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.rememberMe input{
+    margin-right: 10px;
+}
+.button {
+	background-color:#44c767;
+	border-radius:20px;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:24px;
+	padding:4px 20px;
+	text-decoration:none;
+    transition: .4s;
+}
+.button:hover {
+	background-color:#000;
+}
+.input{
+    padding: 8px 20px;
+    border-radius: 20px;
+    margin: 8px 0;
+    font-size: 20px;
+}

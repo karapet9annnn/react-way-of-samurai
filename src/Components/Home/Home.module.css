@@ -1,0 +1,10 @@
+.home{
+    background-color: #a8a28f;
+    grid-area: home;
+}
+
+.home > img{
+    width: 40%;
+}
+
+

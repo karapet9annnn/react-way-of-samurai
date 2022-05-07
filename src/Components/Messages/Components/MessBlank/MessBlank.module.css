@@ -1,0 +1,12 @@
+.userMessage p {
+    margin: 15px;
+    font-size: 20px;
+    display: inline-flex;
+    background-color: red;
+    padding: 2%;
+    border-radius: 25% 10%;
+}
+.userMessage:nth-child(odd){
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,10 @@
+.messUrl img{
+    margin-right: 5px;
+    width: 40px;
+    border-radius: 50%;
+}
+.messUrl{
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
